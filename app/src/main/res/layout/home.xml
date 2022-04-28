@@ -48,7 +48,7 @@
         android:layout_width="185dp"
         android:layout_height="32dp"
         android:layout_marginTop="40dp"
-        android:text="Login"
+        android:text="Login into your account"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.309"

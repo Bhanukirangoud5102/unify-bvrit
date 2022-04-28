@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_logedin.xml" value="0.264" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_logedin.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/danth/AndroidStudioProjects/unify-bvritapp/app/src/main/res/layout/activity_logedin.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/danth/AndroidStudioProjects/unify-bvritapp/app/src/main/res/layout/home.xml" value="0.1308876811594203" />
       </map>
     </option>
   </component>
