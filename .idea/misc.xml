@@ -3,10 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_logedin.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/drawable/ic_call_black_24dp.xml" value="0.2425" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2425" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/drawable/ic_inbox_black_24dp.xml" value="0.2425" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/drawable/side_nav_bar.xml" value="0.2425" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_hamburger.xml" value="0.264" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_humbergermenu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_hummenu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_logedin.xml" value="0.264" />
         <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/danth/AndroidStudioProjects/unify-bvritapp/app/src/main/res/layout/activity_logedin.xml" value="0.1308876811594203" />
-        <entry key="..\:/Users/danth/AndroidStudioProjects/unify-bvritapp/app/src/main/res/layout/home.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/app_bar_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/content_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/fragment_home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/fragment_send.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/fragment_share.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/header.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/inbox_fragment.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/bhanu/AndroidStudioProjects/UNIFYBVRIT/app/src/main/res/layout/nav_header_main.xml" value="0.23645833333333333" />
       </map>
     </option>
   </component>

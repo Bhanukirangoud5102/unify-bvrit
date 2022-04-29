@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UNIFYBVRIT">
         <activity
+            android:name=".hamburger"
+            android:exported="false" />
+        <activity
             android:name=".logedin"
             android:exported="false" />
         <activity
